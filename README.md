@@ -39,6 +39,6 @@
 ## Awards
 + <a href="https://dacon.io/competitions/official/235978/overview/description">Dacon 2022 Tourism Data AI Contest Excellence Award</a>
 + <a href="https://dacon.io/competitions/official/236037/overview/description">Dacon2022 Sentence Classification AI Contest Encouragement Award</a>
-<img src="https://user-images.githubusercontent.com/112039781/211071653-040a1845-a12a-43e8-bda9-67120644afce.png" width="300 " height="280">
-<img src="https://cdn.discordapp.com/attachments/693519274282713140/1065579694835114024/image.png" width="300 " height="280">
+<img src="https://user-images.githubusercontent.com/112039781/211071653-040a1845-a12a-43e8-bda9-67120644afce.png" width="600 " height="450">
+<img src="https://cdn.discordapp.com/attachments/693519274282713140/1065579694835114024/image.png" width="600 " height="450">
 <!-- [https://discord.com/channels/@me/693519274282713140/1065579695090974781](https://cdn.discordapp.com/attachments/693519274282713140/1065579694835114024/image.png) -->
